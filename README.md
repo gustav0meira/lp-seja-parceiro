@@ -1,6 +1,6 @@
 # Landing Page | Seja Parceiro - Universa Elétrica
 
-![LP](https://i.ibb.co/jL9ytpK/localhost-seja-parceiro.png)
+![LP]()
 
 Este projeto consiste no desenvolvimento de uma Landing Page para a empresa Universa Elétrica, com o objetivo de captar novos parceiros e promover seus serviços. A página foi desenvolvida utilizando HTML, CSS, Bootstrap e JavaScript, proporcionando uma experiência atraente e responsiva aos visitantes.
 
